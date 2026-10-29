@@ -6,7 +6,7 @@ The source code is not public.
 **Download:** see [Releases](../../releases/latest) → `Jonix-Soullink-Tracker-Setup-<version>.exe`
 
 - Website, install guide and help: https://jonix-soullinktracker.com
-- Discord (questions, bug reports, partner search): https://discord.gg/ZhNKVa2TZ3
+- Discord (questions, bug reports, partner search): https://discord.gg/UNgnDh2gf7
 
 ## Windows warning
 
